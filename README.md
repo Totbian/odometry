@@ -1,4 +1,4 @@
-# odometry
+# Odometry
 Odometry -  building a line follower robot with arduino uno as a university group project (University of Southampton)
 
 
