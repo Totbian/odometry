@@ -4,14 +4,13 @@ Odometry -  building a line follower robot with arduino uno as a university grou
 
 The Design Brief:
 
-You are required to design, build and program a simple robot that can
-drive a predetermined route (see course path). The vehicle must be able to drive to certain
-waypoints and when there, it must stop and indicate that it has reached that waypoint and
-then drive onto the next waypoint and repeat this action. At five special waypoints the system
-must accurately deposit a single marker (marker maximum size should be 15 mm by 15 mm
-by 5 mm and minimum size should be 8 mm by 8 mm by 3 mm, e.g. M&Ms and Smarties
-could be used). Looking from above, at least some of the marker’s edge must intersect with
-the disc of the waypoint.
+Design, build and program a simple robot that can drive a predetermined route (see course path).
+The vehicle must be able to drive to certain waypoints and when there, it must stop and indicate
+that it has reached that waypoint and then drive onto the next waypoint and repeat this action.
+At five special waypoints the system must accurately deposit a single marker (marker
+maximum size should be 15 mm by 15 mm by 5 mm and minimum size should be 8 mm by 8 mm by
+3 mm, e.g. M&Ms and Smarties could be used). Looking from above, at least some of the marker’s
+edge must intersect with the disc of the waypoint.
 
 Rules to follow:
 
