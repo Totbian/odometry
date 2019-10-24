@@ -2,7 +2,7 @@
 Odometry -  building a line follower robot with arduino uno as a university group project (University of Southampton)
 
 
-##The Design Brief:
+## The Design Brief:
 
 Design, build and program a simple robot that can drive a predetermined route (see course path).
 The vehicle must be able to drive to certain waypoints and when there, it must stop and indicate
@@ -12,7 +12,7 @@ maximum size should be 15 mm by 15 mm by 5 mm and minimum size should be 8 mm by
 3 mm, e.g. M&Ms and Smarties could be used). Looking from above, at least some of the marker’s
 edge must intersect with the disc of the waypoint.
 
-##Rules to follow:
+## Rules to follow:
 
 • The controller must consist of one Arduino UNO, one MD25 and the RD02 drive unit.
 • The robot must determine its position using the motor encoder outputs only, no
@@ -28,7 +28,7 @@ edge must intersect with the disc of the waypoint.
 • Protect the MD25 with a proper connector such as a Deans or XT60.
 
 
-##Deliverables:
+## Deliverables:
 
 • A functioning Mechatronic prototype with embedded Arduino software.
 • Demonstration of the final prototype in a competition format.
