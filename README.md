@@ -30,9 +30,9 @@ edge must intersect with the disc of the waypoint.
 
 ## Deliverables:
 
-• A functioning Mechatronic prototype with embedded Arduino software.
-• Demonstration of the final prototype in a competition format.
-• A print out of the Arduino sketch (A4 two pages per page, double sided) used for
+- A functioning Mechatronic prototype with embedded Arduino software.
+- Demonstration of the final prototype in a competition format.
+- A print out of the Arduino sketch (A4 two pages per page, double sided) used for
   the final demonstration with extensive comments and authorship and group name
 (i.e. A2-G or M1-F) clearly marked in a header at the top.
 
@@ -47,4 +47,4 @@ Start at point 13 and are going in the order 1, 2, 11, 10, 9, 8, 5, 6, 7, 8, 4 ,
 
 For the code, please make sure to use the correct pin numbers, I have changed a few during testing to make it nicer.
 
-Hope you are all enjoying the challange!
+Hope you are all enjoying the challange! :boom: :boom: :punch:
