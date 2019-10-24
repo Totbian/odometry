@@ -14,18 +14,18 @@ edge must intersect with the disc of the waypoint.
 
 ## Rules to follow:
 
-• The controller must consist of one Arduino UNO, one MD25 and the RD02 drive unit.
-• The robot must determine its position using the motor encoder outputs only, no
+- The controller must consist of one Arduino UNO, one MD25 and the RD02 drive unit.
+- The robot must determine its position using the motor encoder outputs only, no
   additional sensors are allowed.
-• The system must be as accurate as possible in all its movements.
-• It must indicate via sound and/or LED that it has reached the predetermined points.
-• The system must have a simple switch to start it (not a wire).
-• The use of a 2 A fuse between the battery and the hardware is mandatory.
-• The system cannot exceed an A4 footprint and a height of 350 mm.
-• All the electronics must be safely embedded into the prototype – no loose wires!
-• Solder all connectors properly – Do NOT solder to battery terminals, use insulated
+- The system must be as accurate as possible in all its movements.
+- It must indicate via sound and/or LED that it has reached the predetermined points.
+- The system must have a simple switch to start it (not a wire).
+- The use of a 2 A fuse between the battery and the hardware is mandatory.
+- The system cannot exceed an A4 footprint and a height of 350 mm.
+- All the electronics must be safely embedded into the prototype – no loose wires!
+- Solder all connectors properly – Do NOT solder to battery terminals, use insulated
   spade connectors.
-• Protect the MD25 with a proper connector such as a Deans or XT60.
+- Protect the MD25 with a proper connector such as a Deans or XT60.
 
 
 ## Deliverables:
